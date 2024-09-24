@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button:disabled {
+  background-color: #ddd;
+}
+
+img {
+  margin: 20px 0;
+}
